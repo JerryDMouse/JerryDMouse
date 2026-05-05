@@ -57,7 +57,7 @@ He liderado proyectos de transformación digital en el **Banco de Bogotá**, inc
 ## 💼 Experiencia
 
 ```
-🏦 Banco de Bogotá                                              2011 – 2024
+🏦 Banco de Bogotá                                       2011 – 2024
 ├── Dev. Web Services & APIs ─────────────────────────── 2022 – 2024
 │     └─ IBM Broker · DataPower · OpenAPI Specification
 ├── Líder Técnico – Portal PSE ───────────────────────── 2019 – 2022
